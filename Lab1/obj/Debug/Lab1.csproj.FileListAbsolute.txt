@@ -1,0 +1,24 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Labs\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Labs\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Labs\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Labs\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Labs\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Labs\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Labs\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Labs\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Labs\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Labs\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Labs\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Labs\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\tim.mahan\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\tim.mahan\Desktop\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\tim.mahan\Desktop\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\tim.mahan\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\tim.mahan\Desktop\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\tim.mahan\Desktop\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\tim.mahan\Documents\School\Junior Year, Fall Semester\CIS 200\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\tim.mahan\Documents\School\Junior Year, Fall Semester\CIS 200\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\tim.mahan\Documents\School\Junior Year, Fall Semester\CIS 200\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\tim.mahan\Documents\School\Junior Year, Fall Semester\CIS 200\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\tim.mahan\Documents\School\Junior Year, Fall Semester\CIS 200\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\tim.mahan\Documents\School\Junior Year, Fall Semester\CIS 200\Lab1\Lab1\bin\Debug\Lab1.pdb

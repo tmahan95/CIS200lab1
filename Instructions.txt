@@ -1,0 +1,2 @@
+//This program initiates an array and then searches it using LINQ queries, and displays according to what is selected 
+//in the LINQ query and what is set to display in the loop that follows.
